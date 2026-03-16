@@ -1,4 +1,4 @@
-# Python Advanced Diploma Project
+# Описание проекта
 
 Проект представляет собой корпоративный сервис микроблогов, 
 реализованное с использованием FastAPI, PostgreSQL, Docker и Nginx (backend + frontend приложение с REST API).
