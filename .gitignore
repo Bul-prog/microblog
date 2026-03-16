@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Database
+*.sqlite3
+
+# Alembic
+alembic/versions/*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Media
+app/media/
+
+# Docker
+*.pid
+
+# nginx cache
+nginx/cache/
+
+# node (если фронт)
+node_modules/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# temporary
+*.tmp
+*.swp
