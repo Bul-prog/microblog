@@ -67,14 +67,12 @@ microblog/
 - Клонировать репозиторий
 ```bash
 git clone https://github.com/Bul-prog/microblog.git
-cd python_advanced_diploma
 ```
 
 - Запуск через Docker Compose  
 ```bash
 docker-compose up --build
-```
-    
+```    
 
 ### 📌 Основные эндпоинты
 
